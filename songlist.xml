@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songlist.css"?>
+<SongList>
+    <Head>Song List</Head>
+    <Song>
+        <SetNum>Song 1</SetNum>
+        <Artist>Artist: Bren Joy</Artist>
+        <Title>Song: Scottie Pippen</Title>
+        <Genre>Genre: RnB</Genre>
+        <Year>Released: 2019</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 2</SetNum>
+        <Artist>Artist: Sam Fender</Artist>
+        <Title>Song: Call Me Lover</Title>
+        <Genre>Genre: Rock</Genre>
+        <Year>Released: 2019</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 3</SetNum>
+        <Artist>Artist: Kesly Karter</Artist>
+        <Title>Song: Harry</Title>
+        <Genre>Genre: Rock</Genre>
+        <Year>Released: 2019</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 4</SetNum>
+        <Artist>Artist: Thomas Headon</Artist>
+        <Title>Song: Clean Me Up</Title>
+        <Genre>Genre: Pop</Genre>
+        <Year>Released: 2020</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 5</SetNum>
+        <Artist>Artist: Role Model</Artist>
+        <Title>Song: Minimal</Title>
+        <Genre>Genre: Pop</Genre>
+        <Year>Released: 2019</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 6</SetNum>
+        <Artist>Artist: Glass Animals</Artist>
+        <Title>Song: Heat Waves</Title>
+        <Genre>Genre: Alternatives</Genre>
+        <Year>Released: 2020</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 7</SetNum>
+        <Artist>Artist: Dayglow</Artist>
+        <Title>Song: Can I Call You Tonight?</Title>
+        <Genre>Genre: Alternative</Genre>
+        <Year>Released: 2018</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 8</SetNum>
+        <Artist>Artist: Catfish and the Bottlemen</Artist>
+        <Title>Song: Cocoon</Title>
+        <Genre>Genre: Alternative</Genre>
+        <Year>Released: 2014</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 9</SetNum>
+        <Artist>Artist: Nothing But Theives</Artist>
+        <Title>Song: Impossible</Title>
+        <Genre>Genre: Rock</Genre>
+        <Year>Released: 2020</Year>
+    </Song>
+    <Song>
+        <SetNum>Song 10</SetNum>
+        <Artist>Artist: Hobo Johnson</Artist>
+        <Title>Song: Romeo and Juliet</Title>
+        <Genre>Genre: Rap</Genre>
+        <Year>Released: 2017</Year>
+    </Song>
+</SongList>
